@@ -1,0 +1,13 @@
+{
+  "name": "humanai-skills",
+  "owner": { "name": "Human + AI", "url": "https://humanai.news" },
+  "plugins": [
+    {
+      "name": "humanai",
+      "source": "./",
+      "description": "Human + AI skills for small businesses. Drafts by default, nothing sent without your yes. MIT licensed.",
+      "version": "0.1.0"
+    }
+  ],
+  "description": "Human + AI skills: the systems we install for small businesses, as free skills for your AI agent."
+}

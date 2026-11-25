@@ -1,0 +1,8 @@
+{
+  "name": "humanai",
+  "version": "0.1.0",
+  "description": "Human + AI skills for small businesses: discovery prep, brand voice, voice-note newsletters, a website that updates itself, an AI video pipeline, an inbox that sorts itself, warm outreach and an AI search check. Drafts by default, nothing sent without your yes. MIT licensed.",
+  "author": { "name": "Human + AI", "url": "https://humanai.news" },
+  "homepage": "https://humanai.news/skills",
+  "keywords": ["small business", "ai automation", "newsletter", "seo", "ai search", "video", "inbox", "outreach", "brand voice"]
+}
